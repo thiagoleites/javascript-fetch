@@ -1,3 +1,4 @@
+// FETCH API DATA
 const button = document.getElementById("getDados")
 const lista = document.getElementById("lista")
 
